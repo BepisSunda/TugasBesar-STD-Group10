@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1703179128 source:e:\penyewaan barang\main.cpp
+	"Rental.h"
+
+1703178171 e:\penyewaan barang\rental.h
+	<iostream>
+
+1703178894 source:e:\penyewaan barang\rental.cpp
+	"Rental.h"
+
+1703179128 source:c:\users\user\videos\penyewaan barang\penyewaan barang\main.cpp
+	"Rental.h"
+
+1703615037 c:\users\user\videos\penyewaan barang\penyewaan barang\rental.h
+	<iostream>
+
+1703614937 source:c:\users\user\videos\penyewaan barang\penyewaan barang\rental.cpp
+	"Rental.h"
+
+1703614670 source:c:\users\geryg\downloads\tubes std\penyewaan barang\main.cpp
+	"Rental.h"
+
+1703615037 c:\users\geryg\downloads\tubes std\penyewaan barang\rental.h
+	<iostream>
+
+1704694699 source:c:\users\geryg\downloads\tubes std\penyewaan barang\rental.cpp
+	"Rental.h"
+
